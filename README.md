@@ -1,2 +1,2 @@
 # OLAssesssment
-Online Assessment portal
+Web Application for Online Assessment.
